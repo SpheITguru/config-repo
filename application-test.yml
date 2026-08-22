@@ -1,2 +1,4 @@
 app:
   name: Test Application NEW LINE
+theme:
+  color: Black
